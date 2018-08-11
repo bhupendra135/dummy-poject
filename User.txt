@@ -1,2 +1,5 @@
 class User{
+
+public viod main(String str[]){
+}
 }
